@@ -1,0 +1,45 @@
+body {
+    background-color:green;
+    background-image: url(romashka.jpeg);
+    background-repeat: no-repeat;
+    background-position: top right
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'arial';
+    color: green;
+    font-style: italic;
+    font-weight: lighter;
+    font-variant: small-caps;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    line-height: 30px;
+    text-transform: capitalize;
+    
+    border-color: #cc1919;
+    border-width: medium;
+    border-style: groove;
+    border-top-color: aqua;
+    border-radius: 20px;
+    
+    padding: 50px;
+    margin: 70px;
+    width: 300px;
+    box-shadow: 3px 3px 20px green;
+    opacity: 0.5;
+    
+   }
+
+ul{ 
+list-style: lower-greek;
+    
+}
